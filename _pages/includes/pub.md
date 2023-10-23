@@ -7,7 +7,8 @@
 <div class='paper-box-text' markdown="1">
 
 EdgeCross: Cloud Scale Traffic Management at Peering Edges \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu \\
+Xiaoliang Wang (Nanjing University),  Penghui Mi (Huawei),  Yong Zhu (Huawei),  **Daiyang Yu** (Nanjing University),  Yuhang Chen (Nanjing University),  Baoyi An (Network Technology Lab, Huawei Technologies CO., LTD);
+Yinhua Wang (Huawei),  Lixiang Wang (Huawei),  Xuezhi Yu (Huawei),  Qiong Xie (Huawei),  Xiang Huang (Huawei),  Mingliang Yin (Huawei),  Chaoyang Ji (Huawei),  Wei Sun (Huawei),  Camtu Nguyen (Nanjing University),  Chen Tian (Nanjing University),  Yihang Lv (Huawei) \\
 In submission to NSDI 2024. Draft available upon requests.
 
 <!-- [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
