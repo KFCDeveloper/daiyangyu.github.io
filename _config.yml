@@ -62,7 +62,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages/includes
+  - _pages
   - files
 exclude:
   - "*.sublime-project"
