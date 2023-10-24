@@ -3,7 +3,7 @@
 <!-- ## 🎙 Speech Synthesis -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/edgecross.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EdgeCross: Cloud Scale Traffic Management at Peering Edges** \\
